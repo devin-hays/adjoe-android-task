@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Adjoe</string>
+    <string name="noti_channel_name">User Activity Channel</string>
+    <string name="noti_channel_desc">Shows notifications whenever the user is present</string>
+    <string name="noti_channel_id">Adjoe</string>
+
+    <string name="noti_title">User Active Time</string>
+    <string name="noti_content">Active for %1$d minutes.</string>
+
+</resources>
